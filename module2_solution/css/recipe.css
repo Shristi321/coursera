@@ -12,12 +12,26 @@ h1{
 h2{
 	position: ralative;
 	float:right;
-	background-color: #2078af;
 	padding:20px;
 	margin-top:-10px;
 	margin-right:-10px;
 	cursor: pointer;
+	border: 1px solid black;
 }
+
+#muffin{
+background-color: #9978af;
+}
+
+#pasta{
+	color:blue;
+	background-color: #2078af;
+}
+
+#pancake{
+	background-color: #207865;
+}
+
 .pic{
 	
 	border: 10px ridge rgb(25, 183, 234);
